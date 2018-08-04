@@ -1,0 +1,16 @@
+{
+  "name": "Krio.logic",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "Professional",
+  "contributors": [],
+  "dependencies": {
+    "gulp": "3.9.1"
+  }
+}
